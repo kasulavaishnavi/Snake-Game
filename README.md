@@ -1,5 +1,5 @@
 
-Welcome to the Snake Game! This is a web-based game built using HTML, CSS, and JavaScript, designed to be played on desktop browsers. 
+Welcome to the Snake Game! This is a WEB-BASED game built using HTML, CSS, and JavaScript, designed to be played on desktop browsers. 
 The objective is simple: guide the snake to eat food, grow longer, and avoid crashing into the walls or itself.
 
 Link to Access the Game
